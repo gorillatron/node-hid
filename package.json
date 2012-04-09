@@ -1,13 +1,13 @@
 {
   "author": "",
   "name": "node-hid",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "repository": {
     "type": "git",
     "url": "git://github.com/andtan/node-hid.git"
   },
   "scripts": {
-    "install": "cd ./src/ && node-waf configure build"
+    "install": "cd ./src/ && node-waf configure build install"
   },
   "main": "./src/HID",
   "engines": {
