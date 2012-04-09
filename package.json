@@ -1,0 +1,18 @@
+{
+  "author": "",
+  "name": "andtan-node-hid",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andtan/node-hid.git"
+  },
+  "scripts": {
+    "install": "cd ./src/ && node-waf configure build"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": "~0.6.11"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
