@@ -1,7 +1,7 @@
 {
   "author": "",
   "name": "andtan-node-hid",
-  "version": "0.0.1",
+  "version": "0.0.11",
   "repository": {
     "type": "git",
     "url": "git://github.com/andtan/node-hid.git"
