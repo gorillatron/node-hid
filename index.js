@@ -1,1 +1,0 @@
-var HID = require('./src/HID.js')
